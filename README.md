@@ -3,9 +3,9 @@ Template to test new tools
 
 Tools to explore:
 - [x] Projects board linked to issues and automate columns to track progress
-- [ ] Actions to enforce linting
+- [x] Actions to enforce PEP8
 - [ ] Actions to test builds
-- [ ] Actions for unit tests
+- [x] Actions for unit tests
 - [ ] Actions to test API and integration tests
 - [x] Track dependencies vulnerabilities with Dependabot
 - [x] Scan code with CodeQL for vulnerabilities
