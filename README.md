@@ -8,5 +8,6 @@ Tools to explore:
 - [ ] Actions for unit tests
 - [ ] Actions to test API and integration tests
 - [x] Track dependencies vulnerabilities with Dependabot
+- [x] Scan code with CodeQL for vulnerabilities
 
 by Jerome Labonte
